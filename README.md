@@ -49,10 +49,9 @@ python pdf_splitter.py
 ## 界面截图
 
 ### 主界面
-![主界面](https://your-image-url-here)
+[image.png](https://postimg.cc/w1pyHrTB)
 
-### 页面预览
-![页面预览](https://your-image-url-here)
+
 
 ## 注意事项
 

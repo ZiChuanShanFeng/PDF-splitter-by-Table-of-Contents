@@ -18,9 +18,10 @@
   - [Pillow](https://pillow.readthedocs.io/en/stable/)
   - tkinter（Python 内置）
 
-安装依赖项：
+##安装依赖项：
 ```bash
 pip install PyMuPDF Pillow
+
 ## 使用说明
 
 ## 克隆仓库：

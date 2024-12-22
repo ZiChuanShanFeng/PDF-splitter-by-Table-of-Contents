@@ -1,4 +1,66 @@
+<details>
+<summary>English</summary>
+
+## Features
+
+- **Split PDFs by TOC depth**: Automatically split the PDF file based on the TOC depth input by the user.
+- **Real-time TOC display**: Load and display the table of contents (TOC) in the user interface.
+- **Page Preview**: Double-click a TOC item to preview the corresponding PDF page.
+- **Individual Splitting**: Allows the user to select specific TOC items for splitting.
+- **Flexible Settings**: Supports page offset adjustment and saving to a specified output folder.
+
+## Requirements
+
+- **Python**: Version 3.7 or higher
+- **Dependencies**:
+  - [PyMuPDF (fitz)](https://pymupdf.readthedocs.io/en/latest/)
+  - [Pillow](https://pillow.readthedocs.io/en/stable/)
+  - tkinter (built-in with Python)
+
+## Install Dependencies:
+
+```bash
+pip install PyMuPDF Pillow
+```
+Usage Instructions
+Clone the Repository:
+```bash
+
+git clone https://github.com/yourusername/pdf-splitter-tool.git
+cd pdf-splitter-tool
+```
+Run the Program:
+```bash
+
+python pdf_splitter.py
+```
+Operation Steps:
+  - Click the "Browse" button to select a PDF file.
+  - Set the output folder where the split files will be saved.
+  - Enter the TOC depth to split (positive integer).
+  - Click the "Confirm Split" button for batch splitting, or use the "Split TOC Individually" button to select specific chapters for splitting.
+  - Double-click a TOC item to preview the corresponding PDF page.
+
+Split Results:
+  - All split PDFs will be saved to the specified output folder.
+  - File names are formatted as: ChapterName_pStartPage-EndPage.pdf.
+  - Interface Screenshots
+  - Main Interface
+
+Notes：
+  - TOC Depth: A positive integer must be entered, e.g., 1 for the first level of the TOC, 2 for the second level.
+  - Page Offset: You can adjust the difference between the TOC page numbers and the actual PDF page numbers.
+  - If the PDF file does not have an embedded TOC, the tool will not be able to load TOC data.
+  - 
+Contribution Guide：
+  - Contributions to the code and feature improvements are welcome! If you have any issues or suggestions, please submit Issues or send a Pull Request.
+## License
+  - This project is open source under the MIT License.
+</details> 
+
 # PDF 分割器与预览工具
+
+
 
 一个基于 Python 和 Tkinter 的实用工具，用于通过 PDF 的目录（TOC）将 PDF 分割为多个文件，并支持预览和单独分割功能。
 

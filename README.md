@@ -18,7 +18,7 @@
   - [Pillow](https://pillow.readthedocs.io/en/stable/)
   - tkinter（Python 内置）
 
-##安装依赖项：
+## 安装依赖项：
 ```bash
 pip install PyMuPDF Pillow
 
@@ -29,7 +29,9 @@ pip install PyMuPDF Pillow
 ```bash
 git clone https://github.com/yourusername/pdf-splitter-tool.git
 cd pdf-splitter-tool
+
 ## 运行程序
+
 ```bash
 python pdf_splitter.py
 

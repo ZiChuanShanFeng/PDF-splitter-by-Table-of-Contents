@@ -112,6 +112,7 @@ python pdf_splitter.py
 
 ### 主界面
 [![image.png](https://i.postimg.cc/XYZwKMR9/image.png)](https://postimg.cc/w1pyHrTB)
+[![Pix-Pin-2024-12-22-17-51-18.png](https://i.postimg.cc/1tRXHw8b/Pix-Pin-2024-12-22-17-51-18.png)](https://postimg.cc/8F3TkFBb)
 
 
 

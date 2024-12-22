@@ -26,7 +26,7 @@ Usage Instructions
 Clone the Repository:
 ```bash
 
-git clone https://github.com/yourusername/pdf-splitter-tool.git
+git clone https://github.com/ZiChuanShanFeng/PDF-splitter-by-Table-of-Contents
 cd pdf-splitter-tool
 ```
 Run the Program:
@@ -89,7 +89,7 @@ pip install PyMuPDF Pillow
 ## 克隆仓库：
 
 ```bash
-git clone https://github.com/yourusername/pdf-splitter-tool.git
+git clone https://github.com/ZiChuanShanFeng/PDF-splitter-by-Table-of-Contents
 cd pdf-splitter-tool
 ```
 ## 运行程序

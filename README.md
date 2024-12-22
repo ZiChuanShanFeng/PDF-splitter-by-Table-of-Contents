@@ -49,7 +49,7 @@ python pdf_splitter.py
 ## 界面截图
 
 ### 主界面
-[image.png](https://postimg.cc/w1pyHrTB)
+[![image.png](https://i.postimg.cc/XYZwKMR9/image.png)](https://postimg.cc/w1pyHrTB)
 
 
 

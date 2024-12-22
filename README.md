@@ -23,7 +23,7 @@
 pip install PyMuPDF Pillow
 ## 使用说明
 
-### 克隆仓库：
+## 克隆仓库：
 
 ```bash
 git clone https://github.com/yourusername/pdf-splitter-tool.git
@@ -32,14 +32,14 @@ cd pdf-splitter-tool
 ```bash
 python pdf_splitter.py
 
-### 操作步骤：
+## 操作步骤：
 
 1. 点击“浏览”按钮选择 PDF 文件。
 2. 设置保存的输出文件夹。
 3. 输入需要分割的 TOC 深度（正整数）。
 4. 点击“确认分割”按钮进行批量分割，或使用“单独分割 TOC”按钮选择特定章节分割。
 5. 双击目录项可预览对应 PDF 页面。
-### 分割结果：
+## 分割结果：
 
 - 所有分割后的 PDF 文件将保存到指定的输出文件夹。
 - 文件名格式为：`章节名称_p开始页-结束页.pdf`。

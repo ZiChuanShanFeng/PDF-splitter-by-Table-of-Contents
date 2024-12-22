@@ -21,7 +21,7 @@
 ## 安装依赖项：
 ```bash
 pip install PyMuPDF Pillow
-
+```
 ## 使用说明
 
 ## 克隆仓库：
@@ -29,12 +29,12 @@ pip install PyMuPDF Pillow
 ```bash
 git clone https://github.com/yourusername/pdf-splitter-tool.git
 cd pdf-splitter-tool
-
+```
 ## 运行程序
 
 ```bash
 python pdf_splitter.py
-
+```
 ## 操作步骤：
 
 1. 点击“浏览”按钮选择 PDF 文件。
@@ -61,8 +61,6 @@ python pdf_splitter.py
 - 如果 PDF 文件没有嵌入目录（TOC），工具将无法加载目录数据。
 
 ## 贡献指南
-
-欢迎贡献代码和功能改进！如有任何问题或建议，请提交 [Issues](https://github.com/yourusername/pdf-splitter-tool/issues) 或发送 Pull Request。
+- 欢迎贡献代码和功能改进！如有任何问题或建议，请提交 [Issues](https://github.com/yourusername/pdf-splitter-tool/issues) 或发送 Pull Request。
 ## 许可证
-
-本项目基于 [MIT 许可证](LICENSE) 开源。
+- 本项目基于 [MIT 许可证](LICENSE) 开源。
